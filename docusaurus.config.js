@@ -115,7 +115,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/RamSong/2022-Shu',
+                href: 'https://github.com/RamSong/2022s-Work',
               },
             ],
           },

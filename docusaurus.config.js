@@ -38,7 +38,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://2022s.ramsong.cn/',
+            'https://github.com/RamSong/2022s-Work/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

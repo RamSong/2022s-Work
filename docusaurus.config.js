@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '暑作文档-2022',
+  title: '2022s-Work',
   tagline: '一个开源暑假作业共享项目',
   url: 'https://2022s.ramsong.cn',
   baseUrl: '/',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'RamSong/2022-Shu', // Usually your repo name.
+  organizationName: 'RamSong', // Usually your GitHub org/user name.
+  projectName: '2022s-Work', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -51,7 +51,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '暑作文档-2022',
+        title: '2022s-Work',
         logo: {
           alt: 'My Site Logo',
           src: 'img/svg.svg',
@@ -63,9 +63,15 @@ const config = {
         },
           {
             type: 'doc',
-            docId: 'test',
+            docId: 'About',
             position: 'right',
-            label: '测试',
+            label: '介绍',
+          },
+          {
+            type: 'doc',
+            docId: 'Start',
+            position: 'right',
+            label: '快速开始',
           },
           {
             href: 'https://github.com/RamSong/2022-Shu',

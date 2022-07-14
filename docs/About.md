@@ -2,7 +2,22 @@
 id: About
 title: 介绍
 ---
-
+<head>
+  <script src="https://giscus.app/client.js"
+        data-repo="RamSong/PingLun-A"
+        data-repo-id="R_kgDOHp8m8A"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOHp8m8M4CQNPT"
+        data-mapping="url"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+  </script>
+</head>
 # 你好
 
 # [giscus](https://giscus.app/zh-CN)
@@ -23,20 +38,6 @@ title: 介绍
 
 ## 它如何运作
 
-<script src="https://giscus.app/client.js"
-        data-repo="RamSong/PingLun-A"
-        data-repo-id="R_kgDOHp8m8A"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOHp8m8M4CQNPT"
-        data-mapping="url"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>
 
 <div class="giscus"></div> 
 
